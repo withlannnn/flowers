@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: linen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+canvas {
+    border: 2px solid white;
+    background-color: black;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+}
+
+.button {
+    background-color: darkorange;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.button:hover {
+    background-color: coral;
+}

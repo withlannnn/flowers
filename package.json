@@ -1,0 +1,14 @@
+{
+  "name": "turtle-web-app",
+  "version": "1.0.0",
+  "description": "A web application that replicates turtle graphics using HTML5 canvas.",
+  "main": "src/scripts/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
